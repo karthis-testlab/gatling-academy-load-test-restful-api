@@ -3,8 +3,8 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>io.komoda.demo</groupId>
-  <artifactId>gatling-apitesting-crash-course</artifactId>
+  <groupId>io.karthis.lab.demo</groupId>
+  <artifactId>gatling-academy-load-test-restful-api</artifactId>
   <version>3.9.0</version>
 
   <properties>
